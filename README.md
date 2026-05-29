@@ -1,4 +1,4 @@
-# - <h1 align="center">Oii, eu sou a Larissa 💻*️⃣ <img src="https://wilardo.crd.co/assets/images/gallery29/b9f1d4eb_original.gif?v=ca679d09" width="30px"> </h1>
+# - <h1 align="center">Oii, eu sou a Larissa 💻*️⃣ <img src="https://wilardo.crd.co/assets/images/gallery29/b9f1d4eb_original.gif?v=ca679d09" width="60px"> </h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Back-End Developer</h3>
 
 <p align="center">
