@@ -72,6 +72,6 @@ Sou uma desenvolvedora Back-End e estudante do 3° semestre de <strong>Análise 
 <br>
 <br>
 
-- 📫 Contato: **jkrisnarane@gmail.com**
+- 📫 Contato: **larissaolivr27@gmail.com**
 
 <p align="center"> 
