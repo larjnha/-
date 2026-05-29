@@ -1,4 +1,4 @@
-# - <h1 align="center">Oii, eu sou a Larissa 💻*️⃣ <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> </h1>
+# - <h1 align="center">Oii, eu sou a Larissa 💻*️⃣ <img src="https://wilardo.crd.co/assets/images/gallery29/b9f1d4eb_original.gif?v=ca679d09" width="30px"> </h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Back-End Developer</h3>
 
 <p align="center">
@@ -17,8 +17,7 @@ Sou uma desenvolvedora iniciante <strong>Análise e Desenvolvimento de Sistemas<
   </em> 
   <br>
 <div align= "center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/> <b><i>Tecnologias em aprendizado</i></b> 
-</div>
+
 
 <br>
 
