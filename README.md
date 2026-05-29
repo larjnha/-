@@ -21,44 +21,7 @@ Sou uma desenvolvedora iniciante <strong>Análise e Desenvolvimento de Sistemas<
 </div>
 
 <br>
-  
-<p style="display: inline-block;" align="center">
-   <kbd>
-    <kbd>Back-end</kbd>
-    <br>
-    <br>
 
-  </kbd>
-  <kbd>
-    <kbd>Front-end</kbd>
-    <br>
-    <br>
- 
-  </kbd>
-  <kbd>
-    <kbd>Library/FrameWorks</kbd>
-    <br>
-    <br>
-  
-  </kbd>
-  <kbd>
-    <kbd>Outros</kbd>
-    <br>
-    <br>
- 
-  </kbd>
-  <br>
-  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="center">
-</div>
-
-<div align="center">
-  <a href="https://github.com/krisnarane">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisnarane&layout=compact&langs_count=7&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560"/>
-  </a>
-</div>
-
-<br>
-<br>
 
 - 📫 Contato: **larissaolivr27@gmail.com**
 
