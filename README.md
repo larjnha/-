@@ -10,7 +10,7 @@
 
 <div align="left">
 <fieldset style="border: 2px solid #F82A94; border-radius: 10px; padding: 20px; max-width: 800px;">
-  <legend align="left"><h3>👩🏻‍💻 Sobre Mim</h3></legend>
+  <legend align="left"><h3>👩🏻‍💻 sobre mim</h3></legend>
 
   <em>
 Sou uma desenvolvedora iniciante <strong>Análise e Desenvolvimento de Sistemas</strong> no <strong> Senac </strong>. Minha jornada na tecnologia começou com o ensino médio técnico em Informática para a Internet, o que me deu uma base sólida que hoje aplico com foco em desenvolvimento de software.</p>
